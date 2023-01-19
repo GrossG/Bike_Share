@@ -1,3 +1,6 @@
 ## 19 January
-* Saved down folder Bike_Share_Case_Study within my OneDrive
-* Created subfolder Originals, where I saved the original Excel files from the index bucket of divvy-tripdata
+Saved down folder Bike_Share_Case_Study within my OneDrive
+Created subfolder Originals, where I saved the original Excel files from the index bucket of divvy-tripdata
+
+Created new Excel Workbooks outside of the subfolder but within the Bike_Share_Case_Study folder.
+Added rows “ride_length" and "day_of_week" to each file
